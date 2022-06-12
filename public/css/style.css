@@ -603,8 +603,8 @@ section
 {
   position: absolute;
   justify-content: center;
-  width: 400x;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   background: rgba(225,225,225,0.05);
   z-index: 1000;
   border-radius: 20px;
